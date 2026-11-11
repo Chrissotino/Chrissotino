@@ -1,56 +1,71 @@
-# Hi there, I'm Chris 👋
+<p align="center">
+  <img src="./assets/profile-banner.gif" alt="Hi, I'm Chris → AI Architect, Developer and Hobby Game Developer based in Switzerland, with an animated tech network" width="100%" />
+</p>
 
-## 🤖 AI Architect | Agentic Workflows & MCP | Enterprise AI Solutions | Microsoft Ecosystem
+<p align="center">
+  <a href="https://www.linkedin.com/in/Chrissotino/"><img src="https://img.shields.io/badge/Let's_connect-LinkedIn-0A66C2?style=for-the-badge" alt="Connect with Chris on LinkedIn" /></a>
+  <a href="https://github.com/Chrissotino?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Chrissotino's GitHub repositories" /></a>
+</p>
 
----
+## 👋 From architecture to code
 
-### About Me
+I'm **Chris**, an **AI Architect and developer based in Switzerland**. I design AI systems, build software across multiple languages, and connect applications through APIs, automation and agent workflows.
 
-I'm an AI Architect based in Switzerland, specializing in designing and implementing cutting-edge AI solutions for enterprise environments. My work sits at the intersection of intelligent automation, model-context protocol (MCP) architectures, and the Microsoft technology ecosystem.
+My work brings together **software development, AI architecture and enterprise integration**. I connect agents to tools and data with MCP and bring AI into existing business systems. My experience includes the Microsoft ecosystem alongside frameworks and tools such as LangChain, Docker, REST and GraphQL.
 
-I help organizations unlock the full potential of AI by building robust, scalable, and production-ready systems that integrate seamlessly with existing enterprise infrastructure.
+Outside of that work, I'm a **hobby game developer**, working with **Godot and Unreal Engine** and developing **mobile games with Swift and Kotlin**. Game development is my creative space for coding, experimenting and turning ideas into something interactive. 🎮
 
----
+<p align="center">
+  <img src="./assets/tech-divider.gif" alt="Animated cyan and violet circuit divider" width="100%" />
+</p>
 
-### 🎯 Focus Areas
+## ⚡ What I work on
 
-- **MCP-Based Architectures** — Designing model-context protocol systems that enable AI agents to interact reliably with tools, APIs, and data sources in structured, secure ways
-- **Agentic Systems** — Building autonomous multi-agent pipelines and workflows that reason, plan, and act to accomplish complex business objectives
-- **Enterprise AI Integrations** — Architecting AI solutions deeply integrated with Microsoft tools including Azure AI, Microsoft 365 Copilot, Power Platform, and Dynamics 365
-- **AI Strategy & Governance** — Guiding enterprises through responsible AI adoption with frameworks for safety, compliance, and scalability
+| Area | Focus |
+| :--- | :--- |
+| **🤖 AI & agentic systems** | MCP architectures, tool-connected agents, multi-agent orchestration and intelligent automation. |
+| **💻 Software & integrations** | Python and TypeScript development, REST and GraphQL APIs, and connections between services and data sources. |
+| **🏗️ Enterprise architecture** | AI integration into existing infrastructure, scalable system design, and responsible AI strategy and governance. |
+| **🎮 Games & mobile** | Hobby game development with Godot and Unreal Engine, plus mobile games using Swift and Kotlin. |
 
----
+## 🧰 Languages, frameworks & platforms
 
-### 🛠️ Tech Stack & Tools
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+</p>
 
-**AI & ML**
-`Azure OpenAI` `LangChain` `Semantic Kernel` `AutoGen` `Model Context Protocol (MCP)`
+<p>
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot" />
+  <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+</p>
 
-**Microsoft Ecosystem**
-`Azure AI Studio` `Microsoft Copilot Studio` `Power Platform` `Microsoft 365` `Azure Functions` `Azure Logic Apps`
+| Field | Technologies & experience |
+| :--- | :--- |
+| **Programming languages** | Python · TypeScript · C# · Rust · Swift · Kotlin |
+| **Game engines** | Godot · Unreal Engine |
+| **APIs & integrations** | REST APIs · GraphQL |
+| **AI & orchestration** | Model Context Protocol (MCP) · LangChain · Semantic Kernel · AutoGen · Azure OpenAI |
+| **Containers & development tooling** | Docker · Azure DevOps |
+| **Cloud & automation** | Azure AI Studio · Azure Functions · Azure Logic Apps · Power Platform |
+| **Business platforms** | Microsoft Copilot Studio · Microsoft 365 Copilot · Dynamics 365 |
 
-**Development**
-`Python` `TypeScript` `REST APIs` `GraphQL` `Docker` `Azure DevOps`
+## 🔭 Currently exploring
 
----
+- **Agent collaboration** → orchestration patterns and how agents share work through tools, APIs and context.
+- **AI in everyday workflows** → connecting AI capabilities to the systems people already use.
+- **Architecture into implementation** → translating AI concepts into maintainable software and enterprise integrations.
+- **Game & mobile development** → exploring interactive ideas across game engines and mobile platforms.
 
-### 🌐 Connect with Me
+## 🤝 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Chrissotino)
+Interested in **AI agents, software architecture, API integrations or game and mobile development**? I'm always happy to exchange ideas and talk tech.
 
----
-
-### 📈 What I'm Working On
-
-- 🔭 Building next-generation MCP-based agent orchestration frameworks for enterprise use cases
-- 🧠 Exploring multi-agent collaboration patterns with Microsoft AutoGen and Semantic Kernel
-- ⚡ Integrating AI-native workflows into Microsoft 365 and Power Platform environments
-- 🏗️ Architecting scalable AI solutions that bridge the gap between research and production
-
----
-
-> *"The future belongs to those who build intelligent systems that augment human potential."*
-
----
-
-📫 **Let's connect!** Reach out on [LinkedIn](https://linkedin.com/in/Chrissotino) to discuss AI architecture, enterprise AI strategy, or collaboration opportunities.
+**[Find me on LinkedIn →](https://www.linkedin.com/in/Chrissotino/)**

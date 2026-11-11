@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Hi, I'm Chris</title>
+  <desc id="description">AI Architect, Developer and Hobby Game Developer based in Switzerland. A dark blue banner with cyan and violet accents and a geometric network illustration.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1528" />
+      <stop offset="1" stop-color="#17213D" />
+    </linearGradient>
+    <linearGradient id="accent" x1="800" y1="40" x2="1120" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#67E8F9" />
+      <stop offset="1" stop-color="#A78BFA" />
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#A5B4FC" stroke-opacity="0.045" />
+    </pattern>
+    <clipPath id="frame">
+      <rect width="1200" height="360" rx="24" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="360" fill="url(#background)" />
+    <rect width="1200" height="360" fill="url(#grid)" />
+    <circle cx="1040" cy="170" r="230" fill="#8B5CF6" fill-opacity="0.04" />
+    <circle cx="1040" cy="170" r="175" stroke="#A78BFA" stroke-opacity="0.08" />
+    <path d="M0 359H1200" stroke="url(#accent)" stroke-width="3" />
+
+    <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+      <rect x="56" y="47" width="7" height="7" rx="2" fill="#67E8F9" />
+      <text x="78" y="57" fill="#94A3B8" font-size="15" font-weight="600" letter-spacing="3">CODE · AI · PLAY</text>
+      <text x="52" y="151" fill="#F1F5F9" font-size="72" font-weight="750" letter-spacing="-2">Hi, I'm Chris.</text>
+      <text x="56" y="200" fill="#67E8F9" font-size="23" font-weight="600">AI Architect · Developer · Hobby Game Dev</text>
+      <text x="56" y="244" fill="#CBD5E1" font-size="19">Connecting systems. Writing code. Exploring ideas.</text>
+      <path d="M56 284H704" stroke="#94A3B8" stroke-opacity="0.18" />
+      <text x="56" y="316" fill="#94A3B8" font-size="15" letter-spacing="1">BASED IN SWITZERLAND</text>
+      <text x="704" y="316" fill="#94A3B8" font-size="15" text-anchor="end">@Chrissotino</text>
+    </g>
+
+    <g stroke="url(#accent)" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M970 74L1070 132V248L970 306L870 248V132Z" fill="#67E8F9" fill-opacity="0.025" />
+      <path d="M870 132L970 190L1070 132M970 190V306M970 74V190M870 248L970 190L1070 248" stroke-opacity="0.6" />
+      <path d="M832 110L870 132M1070 248L1110 272M1070 132L1110 110M870 248L832 270" stroke-opacity="0.35" />
+      <circle cx="970" cy="74" r="5" fill="#67E8F9" />
+      <circle cx="1070" cy="132" r="5" fill="#8BC5FA" />
+      <circle cx="1070" cy="248" r="5" fill="#A78BFA" />
+      <circle cx="970" cy="306" r="5" fill="#A78BFA" />
+      <circle cx="870" cy="248" r="5" fill="#8BC5FA" />
+      <circle cx="870" cy="132" r="5" fill="#67E8F9" />
+      <circle cx="970" cy="190" r="12" fill="#0D1528" />
+      <circle cx="970" cy="190" r="4" fill="#E2E8F0" stroke="none" />
+    </g>
+  </g>
+</svg>
